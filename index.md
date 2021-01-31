@@ -3,11 +3,20 @@
 Hello everyone, I am Rajat.
 Today we talk about the latest upcoming technology in the market.
 
-### AI
+## AI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+AI is the Artificial Intelligence that is used to perform human tasks by computer or machine. 
+It includes -
 ```markdown
+-AI(Artificial Intelligence)
+-ML(Machine Learning)
+-DL(Deep Learning)
+```
+## ML
+```markdown
+ML is used to train a machine to do a task by its own. It is done by train the machine by a training model.
+```
+```
 Syntax highlighted code block
 
 # Header 1
